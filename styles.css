@@ -1,2 +1,13 @@
-
-/* Your CSS Code here. */
+table{
+    width: 100%;
+    border-collapse:collapse;
+}
+td th{
+    border: 1px solid black;
+    margin: 2px green;
+    text-align: center;
+    padding: 10px;
+}
+th{
+    background-color: lightblue;
+}
